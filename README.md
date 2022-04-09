@@ -5,4 +5,5 @@ Las carpetas contienen lo siguiente:
 
 * pdf: Contiene un informe donde se explica el desarrollo del trabajo realizado.
 * dataset: Contiene los archivos que contienen los datos extraidos de la página web.
-* visual: Contiene el informe de visualización cuyo datos son extraidos de la carpeta dataset
+* visual: Contiene el informe de visualización cuyo datos son extraidos de la carpeta dataset.
+* code: Contiene código creado en Python que extrae los datos que se encuentran en la carpeta dataset usando Web Scarping sobre la web de Bolsa de Madrid.
