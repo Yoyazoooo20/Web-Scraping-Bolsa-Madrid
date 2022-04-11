@@ -134,14 +134,16 @@ for i in range(len(img)):
 
 # Obtención de los datos de los miembros
 k = 0
-m2 = [["miembro", "direccion", "postal", "telefono", "logo"]]
+m2 = [["id","miembro", "direccion", "postal", "telefono", "logo"]]
 for fila in tabla2.find_all("td", attrs={"align": "left"}):
     a = fila.get_text(separator="--")
     b = a.split("\n")[0]
     c = list(np.array(b.split("--"))[:4])
     c.append(url_img[k])
+    c.insert(0, k+1)
     m2.append(c)
     k += 1
+    
 m21 = np.array(m2)
 m22 = create_dic(m21)
 
