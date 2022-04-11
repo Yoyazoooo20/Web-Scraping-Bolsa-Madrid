@@ -1,0 +1,35 @@
+id,miembro,direccion,postal,telefono,logo
+1,"BANCO BILBAO VIZCAYA ARGENTARIA, S.A.","C/ Sauceda,28",28050 Madrid,TEL.: 91.374.60.00,miembros/bbva.gif
+2,"BANCO CAMINOS, S.A.","Almagro, 8",28010 Madrid,TEL.: 91.319.3448,miembros/bancocaminos.gif
+3,BANCO DE SABADELL S.A.,"Príncipe de Vergara, 125",28002 Madrid,TEL.: 91.782.9000,miembros/BancoSabadell.jpg
+4,BANCO INVERSIS S.A.,"Avda. de la Hispanidad, 6",28042 Madrid,TEL.: 91.400.1400,miembros/inversis.gif
+5,"BANCO MEDIOLANUM, S.A.",Avda. Diagonal 668-670,08034 Barcelona,TEL.: 93.253.54.00,miembros/Fibanc.gif
+6,"BANCO SANTANDER, S.A.",Paseo de Pereda 9-12,39004 Santander,TEL.: 91 289 46 52,miembros/bsch.gif
+7,"BANKINTER, S.A.","C/ Marqués de Riscal,11 Duplicado -1º",28010 Madrid,TEL.: 91.770.98.70,miembros/bankinter.gif
+8,BARCLAYS  BANK IRELAND PLC.,One Molesworth Street,D02 RF29 Dublin 2,TEL.: +353(0)16182600,miembros/barclays.gif
+9,BARCLAYS CAPITAL SECURITIES LIMITED,1 Churchill Place, London  EH14 5HP,TEL.: +44 2076232323,miembros/barclays.gif
+10,"BESTINVER, S.V., S.A.",Juan de Mena 8 - 1º,28014 Madrid,TEL.: 91.595.9100,miembros/bestinver.gif
+11,"BOFA SECURITIES EUROPE, SA","51, rue La Boétie",75008 Paris,TEL.: +33.187700000,miembros/BOFAsecurities.gif
+12,CAIXABANK S.A.,Av. Diagonal 621-629,08028 Barcelona,TEL.: 93.404.6000,miembros/caixabanc.gif
+13,"CECABANK, S.A.","C/ Alcalá, 27",28014 Madrid,TEL.: 91 596 50 00,miembros/cecabank.gif
+14,CITIGROUP GLOBAL MARKETS  AG.,"Reuterweg,16", Frankfurt am Main 60323,TEL.: +49 13665134,miembros/8834.jpg
+15,CITIGROUP GLOBAL MARKETS LIMITED,33 Canada Square - Canary Wharf,E14 5LB London,TEL.: 44 207986 4000,miembros/8834.jpg
+16,"CREDIT SUISSE BANK (EUROPE), S.A.","C/ Ayala, 42, 1º",28001 Madrid,TEL.: 91.791.6172,miembros/CrSuisse.gif
+17,DEUTSCHE BANK AG,Taunusanlage 12,D-60325 Frankfurt,TEL.: +49 6991036546,miembros/DB_logo.jpg
+18,"EBN BANCO DE NEGOCIOS, S.A.","Paseo de Recoletos, 29",28004 Madrid,TEL.: 91 700 98 00,miembros/EBN.gif
+19,"GESTIÓN DE PATRIMONIOS MOBILIARIOS, A.V.","Profesor Waksman,14 Bis",28036 Madrid,TEL.: 91 319 16 84,miembros/gpatrimonios.gif
+20,"GVC GAESCO VALORES, S.V., S.A.","C/ Fortuny,17",28010 Madrid,TEL.: 91.431.5606,miembros/gaesco.gif
+21,"IBERCAJA BANCO, S.A.U.","Plaza Basilio Paraíso, 2",50008 Zaragoza,TEL.: 976.767595,miembros/Ibercaja.gif
+22,INTERMONEY VALORES  S.V. S.A.,"C/ Príncipe de Vergara, 131, Planta 3ª",28002 Madrid,TEL.: 91.432.6400,miembros/Intermoney.gif
+23,J.P. MORGAN SE,Taunustor 1,"D-60310 Frankfurt am Main, Alemania",TEL.: +44 207 1349520,miembros/JPMorganAG.gif
+24,"JB CAPITAL MARKETS, S.V., S.A.","Calle Serrano Anguita,1",28004 Madrid,TEL.: 91.769.1100,miembros/JBCapital.gif
+25,"KEPLER CHEUVREUX, S.A.","112, Avenue Kléber",75784 Paris,TEL.: 91 436 51 00,miembros/KeplerChevreux.gif
+26,LINK SECURITIES S.V. S.A.,"Juan Esplandiú, 15, 6º",28007 Madrid,TEL.: 91.504.0612,miembros/link.gif
+27,"MEDIACIÓN BURSÁTIL S.V.,  S.A.","Eduardo Dato, 23",28010 Madrid,TEL.: 91.319.4945,miembros/mediacion.jpg
+28,MORGAN STANLEY EUROPE SE,Grosse Gallaustrasse 18,60312 Frankfurt am Main,TEL.: +49 69 2166 0,miembros/8824.gif
+29,"RENTA 4 Banco, S.A.","Pº de la Habana, 74",28036 Madrid,TEL.: 91.384.8500,miembros/renta4.gif
+30,"SINGULAR BANK, S.A.","C/ Goya, 11",28001 Madrid,TEL.: 91.789.4010,miembros/singularbank.gif
+31,"SOCIETE GENERALE, Sucursal en España","Plaza Pablo Ruiz Picasso, 1 Torre Picasso",28020 Madrid,TEL.: 91.589.8060,miembros/sg.gif
+32,"SOLVENTIS, A.V., S.A.","Pº de la Castellana, 60,  4ª planta",28046 Madrid,TEL.: 93.200.95.78,miembros/Solventis.gif
+33,TOWER RESEARCH CAPITAL EUROPE BV,"Strawinskylaan 631, Toren B 6e Verdieping,",EC2V 6JP 1077XXX Amsterdam,TEL.: +44 2078091950,miembros/tower.gif
+34,UBS EUROPE SE,"OpernTurm, Bockenheimer Landstarsse, 2-4",D-60310 Frankfurt,TEL.: +44 207 5684827,miembros/ubs.gif
