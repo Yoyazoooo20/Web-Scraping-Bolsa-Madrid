@@ -102,7 +102,7 @@ for i in range(len(urls)):
 m33 = create_dic(np.array(m3))
 
 #  Creación del csv con los datos históricos de cada activo
-nf3 = "./historicData" + ".csv"
+nf3 = "./FACT_IBEX35" + ".csv"
 df3 = pandas.DataFrame(m33)
 df3.to_csv(nf3, sep=',', index=False)
 
@@ -148,6 +148,6 @@ m21 = np.array(m2)
 m22 = create_dic(m21)
 
 #  Creación del csv de los miembros
-nf2 = "./data_miembors" + ".csv"
+nf2 = "./DIM_Miembro" + ".csv"
 df2 = pandas.DataFrame(m22)
 df2.to_csv(nf2, sep=',', index=False)
